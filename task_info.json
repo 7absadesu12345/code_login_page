@@ -1,0 +1,11 @@
+{
+    "task_name": "code login page",
+    "task_id": 56,
+    "description": "implement frontend with validation and then connect it to backend, and if credentials is valid authenticate user to the system",
+    "student": {
+        "firstName": "test500",
+        "lastName": "test500",
+        "id": "ac7ed6ba-62ab-439c-a860-3b126ebe7dd1"
+    },
+    "cloned": false
+}
